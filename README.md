@@ -3,7 +3,7 @@
 
 
 # Explanation
-*_A python program who suppose to read the news paper, It is taking the news from the [NewsAPI](newsapi.com) and speck in the readable from._*
+*_A python program who suppose to read the news paper, It is taking the news from the [NewsAPI](newsapi.org) and speck in the readable from._*
 
 The program name I kept Indian traditionlly name `Akhbar padh kr sunao` Means A bot who will tell the fresh news.
 The daily top 10 news of India will be dictat to the user.
@@ -11,7 +11,7 @@ The daily top 10 news of India will be dictat to the user.
 # How-to-use
 
 In the part of `if __name__ == '__main__':` There is the functions called news_api() Actaully its taking the user API KEY as a parameter, So Kindly Enter your API key
-You should just log in to the [NewsAPI](newsapi.com) its totally free. Then you will get your API key, And just you your API key in the program.
+You should just log in to the [NewsAPI](newsapi.org) its totally free. Then you will get your API key, And just you your API key in the program.
 
 # Requrements
 
