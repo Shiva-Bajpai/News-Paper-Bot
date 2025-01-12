@@ -21,4 +21,4 @@ You should just log in to the [NewsAPI](newsapi.com) its totally free. Then you 
 4. pywin32
 
 # Thank you!
-Made with ❤️[Shiva Bajpai](https://shivacodes.vercel.app)
+Made with ❤️ [Shiva Bajpai](https://shivacodes.vercel.app)
